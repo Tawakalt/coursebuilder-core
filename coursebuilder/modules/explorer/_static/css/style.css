@@ -3594,7 +3594,7 @@ footer .footer-bottom .footer-social-icons a { color: black; }
 
 .course-card { position: relative; }
 
-.course-card img { max-width: 100%; max-height: 400px; }
+.course-card img { max-width: 100%; max-height: 400px; object-fit: contain }
 
 .course-card .free-course { font-size: 0.9rem; color: #43a047; margin: 0 0 20px; }
 
