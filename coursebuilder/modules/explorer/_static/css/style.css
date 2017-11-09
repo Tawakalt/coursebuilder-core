@@ -3231,7 +3231,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 
 .owl-carousel .owl-item { position: relative; min-height: 1px; float: left; -webkit-backface-visibility: hidden; -webkit-tap-highlight-color: transparent; -webkit-touch-callout: none; }
 
-.owl-carousel .owl-item img { display: block; width: 100%; }
+.owl-carousel .owl-item img { display: block; width: auto; }
 
 .owl-carousel .owl-nav.disabled, .owl-carousel .owl-dots.disabled { display: none; }
 
